@@ -1,5 +1,7 @@
 # AgnAIstic
 
+English | [Simplified Chinese](./README_cn.md)
+
 > Agnai: AI Agnostic, Self-hosted or Multi-tenant
 
 AI Agnostic Chat
