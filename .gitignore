@@ -13,5 +13,6 @@ runtime
 bin
 *.js
 *.map
+.DS_Store
 
 !srv.tsconfig.json
